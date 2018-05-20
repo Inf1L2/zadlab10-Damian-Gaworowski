@@ -40,7 +40,7 @@ try{
 	  System.out.println(odczyt.nextLine());
 }
           catch(FileNotFoundException e){
-            System.out.println("Plik nie istnieje!");
+            System.out.println(" nie istnieje!");
         } catch(IOException e){
             System.out.println("błąd IOException");
         }
